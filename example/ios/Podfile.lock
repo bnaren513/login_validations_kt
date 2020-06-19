@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - loginvalidationskt (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - loginvalidationskt (from `.symlinks/plugins/loginvalidationskt/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  loginvalidationskt:
+    :path: ".symlinks/plugins/loginvalidationskt/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  loginvalidationskt: 35346476abda78afc54dc09fd3c30278002af2ef
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.8.4
