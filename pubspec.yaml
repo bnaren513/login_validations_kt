@@ -1,8 +1,7 @@
 name: loginvalidationskt
 description: A new Flutter plugin.
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/bnaren513/login_validations_kt
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
